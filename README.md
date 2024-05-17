@@ -2,6 +2,17 @@
 
 This project is a Bank Management System implemented in C++. It provides functionalities to manage customer accounts, perform transactions, and modify account details.
 
+## Table of Contents
+
+1. [Features](#features)
+2. [Getting Started](#getting-started)
+   - [Clone the Repository](#clone-the-repository)
+   - [Compile the Code](#compile-the-code)
+   - [Run the Program](#run-the-program)
+3. [Usage](#usage)
+4. [Dependencies](#dependencies)
+5. [Contributing](#contributing)
+
 ## Features
 
 - **Account Management**: Create, update, and delete customer accounts.
@@ -12,23 +23,29 @@ This project is a Bank Management System implemented in C++. It provides functio
 
 ## Getting Started
 
-1. **Clone the Repository**: Clone this repository to your local machine.
+### Clone the Repository
 
-   ```bash
-   git clone https://github.com/your-username/bank-management-system.git
-   ```
+Clone this repository to your local machine.
 
-2. **Compile the Code**: Compile the `account.cpp` file to generate the executable.
+```bash
+git clone https://github.com/your-username/bank-management-system.git
+```
 
-   ```bash
-   g++ account.cpp -o bank_management
-   ```
+### Compile the Code
 
-3. **Run the Program**: Execute the generated executable to start the Bank Management System.
+Compile the `account.cpp` file to generate the executable.
 
-   ```bash
-   ./bank_management
-   ```
+```bash
+g++ account.cpp -o bank_management
+```
+
+### Run the Program
+
+Execute the generated executable to start the Bank Management System.
+
+```bash
+./bank_management
+```
 
 ## Usage
 
